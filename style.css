@@ -220,6 +220,7 @@ img{
         position: relative;
        min-width:340px;
         overflow-x: hidden;
+        height:100%;
     }
     .top {
         height:200px;
