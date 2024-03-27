@@ -212,7 +212,7 @@ img{
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width:600px) {
     body {
-        min-height: 100vh;
+      
         /* position:relative; */
         position:absolute;
     }
@@ -220,7 +220,7 @@ img{
         position: relative;
        min-width:340px;
         overflow-x: hidden;
-       height:800px;
+         min-height: 100vh;
     }
     .top {
         height:200px;
